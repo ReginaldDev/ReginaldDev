@@ -43,7 +43,7 @@ Me interesso por boas práticas de desenvolvimento, testes automatizados e quali
 
 > Este projeto demonstra a implementação de um sistema CRUD (Create, Read, Update, Delete) utilizando ASP.NET Core Web API no backend, com um cliente de terminal (console) em C# para consumo da API. O banco de dados utilizado é o SQL Server, com acesso via Entity Framework Core (EF Core).
 
-[![https://github.com/ReginaldDev/CSharp-CRUD-API](https://img.shields.io/badge/GitHub-Em%20Breve-lightgrey?style=for-the-badge&logo=github)](https://github.com/ReginaldDev/CSharp-CRUD-API)
+[![https://github.com/ReginaldDev/CSharp-CRUD-API](https://img.shields.io/badge/GitHub-Ver%20o%20c%C3%B3digo-blue?style=for-the-badge&logo=github)](https://github.com/ReginaldDev/CSharp-CRUD-API)
 
 ---
 

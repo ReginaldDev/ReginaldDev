@@ -27,7 +27,7 @@ Me interesso por boas práticas de desenvolvimento, testes automatizados e quali
 
 > Este repositório contém testes automatizados para a API Rockshaver, utilizando o framework Cypress para validação de endpoints.
 
-[![https://github.com/ReginaldDev/RockshaverAPI](https://img.shields.io/badge/GitHub-Ver%20o%20c%C3%B3digo-blue?style=for-the-badge&logo=github)]([(https://github.com/ReginaldDev/RockshaverAPI)])
+[![https://github.com/ReginaldDev/RockshaverAPI](https://img.shields.io/badge/GitHub-Ver%20o%20c%C3%B3digo-blue?style=for-the-badge&logo=github)]((https://github.com/ReginaldDev/RockshaverAPI))
 
 ---
 

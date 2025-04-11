@@ -60,3 +60,4 @@ Você pode acompanhar meu progresso por aqui:
 ## 🐍 Gráfico de Contribuições com Snake
 
 ![snake gif](https://github.com/ReginaldDev/ReginaldDev/blob/output/github-contribution-grid-snake.svg)
+https://github.com/ReginaldDev/ReginaldDev/blob/output/github-contribution-grid-snake.svg

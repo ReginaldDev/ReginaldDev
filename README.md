@@ -51,11 +51,12 @@ Me interesso por boas práticas de desenvolvimento, testes automatizados e quali
 
 Você pode acompanhar meu progresso por aqui:
 
-![Snake animation](https://github.com/ReginaldDev/ReginaldDev/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
+
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReginaldDev&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaldDev&layout=compact&langs_count=8&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/ReginaldDev/ReginaldDev/blob/output/github-contribution-grid-snake.svg?palette=gruvbox-dark)
 ---
-![snake gif](https://github.com/ReginaldDev/ReginaldDev/blob/output/github-contribution-grid-snake.svg)
+
 

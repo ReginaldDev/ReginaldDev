@@ -12,7 +12,7 @@ Me interesso por boas práticas de desenvolvimento, testes automatizados e quali
 
 ## 🧰 Tecnologias que Utilizo
 
-- 💻 **Linguagens:** JavaScript, Python, C#, HTML, CSS  
+- 💻 **Linguagens:** JavaScript, Python, C#, Java, HTML, CSS  
 - 🌐 **Frameworks/Bibliotecas:** Node.js, Express, React, Flask  
 - ⚙️ **Banco de Dados:** SQL Server, PostgreSQL, MongoDB  
 - 🧪 **Testes:** Jest, Pytest  

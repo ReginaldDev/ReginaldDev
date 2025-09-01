@@ -1,62 +1,64 @@
-# Olá! 👋 Eu sou o Reginaldo Junior
+# Reginaldo Junior
+*Software Quality Assurance Analyst (QA) | Testes Manuais & Automatizados | Cypress | Postman*
 
 ---
 
-## Sobre Mim 👨‍💻
+### Olá, eu sou o Reginaldo 👋
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de aprender algo novo e colocar em prática através de projetos reais.  
-Atualmente, estou focado em desenvolvimento backend com JavaScript (Node.js) e Python e C#, explorando também APIs, banco de dados SQL Server e integração com ferramentas modernas.  
-Me interesso por boas práticas de desenvolvimento, testes automatizados e qualidade de software. Meu objetivo é crescer como desenvolvedor full stack e contribuir em projetos que façam a diferença.
+Com a minha experiência de mais de 10 anos em gestão e otimização de processos, eu analiso o software com a visão do negócio. O meu foco é criar testes que garantem não só a funcionalidade técnica, mas também uma experiência de utilizador eficiente que agrega valor real ao produto.
 
----
+- 🔭 Atualmente, sou cofundador da **Testfy**, onde desenvolvo e executo planos de teste manuais e automatizados para aplicações Web e APIs.
+- 🌱 Estou sempre a aprender e, no momento, a preparar-me para a **certificação ISTQB**.
+- 📫 Pode encontrar-me no **[LinkedIn](https://linkedin.com/in/reginaldojunior89)** ou ver o meu **[Portfólio](https://reginalddev.github.io/HomePage)**.
 
-## 🧰 Tecnologias que Utilizo
+### Tecnologias e Ferramentas
 
-- 💻 **Linguagens:** JavaScript, Python, C#, Java, HTML, CSS  
-- 🌐 **Frameworks/Bibliotecas:** Node.js, Express, React, Flask  
-- ⚙️ **Banco de Dados:** SQL Server, PostgreSQL, MongoDB  
-- 🧪 **Testes:** Jest, Pytest  
-- ☁️ **Outros:** Git, Docker, Insomnia, Postman, VS Code, Supabase  
-- 📚 **Aprendendo:** Clean Architecture, APIs RESTful, Testes de Software (ISTQB)
+![Cypress](https://img.shields.io/badge/-Cypress-ffffff?style=for-the-badge&logo=cypress&logoColor=green)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![K6](https://img.shields.io/badge/k6-8648ec?style=for-the-badge&logo=k6&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-fb1a04?style=for-the-badge&logo=java&logoColor=blue)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Agile](https://img.shields.io/badge/Agile-Scrum_&_Kanban-blue?style=for-the-badge)
 
----
 
-## 🚀 Projetos em Destaque
 
-### 📋 Testes de API/REST com Cypress
 
-> Este repositório contém testes automatizados para a API Rockshaver, utilizando o framework Cypress para validação de endpoints.
+<details>
+<summary>🇬🇧 <strong>View in English</strong></summary>
 
-[![https://github.com/ReginaldDev/RockshaverAPI](https://img.shields.io/badge/GitHub-Ver%20o%20c%C3%B3digo-blue?style=for-the-badge&logo=github)]((https://github.com/ReginaldDev/RockshaverAPI))
-
----
-
-### 📋 CRUD com Python + SQL Server + FastAPI
-
-> Aplicação de cadastro e listagem de dados com API REST em FastAPI conectada ao SQL Server.
-
-[![https://github.com/ReginaldDev/PythonCRUD-FastAPI-](https://img.shields.io/badge/GitHub-Ver%20o%20c%C3%B3digo-blue?style=for-the-badge&logo=github)](https://github.com/ReginaldDev/PythonCRUD-FastAPI-)
+# Reginaldo Junior
+*Software Quality Assurance Analyst (QA) | Manual & Automated Testing | Cypress | [cite_start]Postman* [cite: 2]
 
 ---
 
-### 💼 CRUD com C# + SQL Server + API.NET
+### Hi, I'm Reginaldo 👋
 
-> Este projeto demonstra a implementação de um sistema CRUD (Create, Read, Update, Delete) utilizando ASP.NET Core Web API no backend, com um cliente de terminal (console) em C# para consumo da API. O banco de dados utilizado é o SQL Server, com acesso via Entity Framework Core (EF Core).
+Leveraging my 10+ years of experience in management and process optimization, I analyze software from a business perspective. My focus is on creating tests that ensure not only technical functionality but also an efficient user experience that delivers real value to the product.
 
-[![https://github.com/ReginaldDev/CSharp-CRUD-API](https://img.shields.io/badge/GitHub-Ver%20o%20c%C3%B3digo-blue?style=for-the-badge&logo=github)](https://github.com/ReginaldDev/CSharp-CRUD-API)
+- 🔭 I am currently the co-founder of **Testfy**, where I design and execute manual and automated test plans for Web and API applications.
+- 🌱 I'm always learning and currently preparing for my **ISTQB Certification**.
+- 📫 You can reach me on **[LinkedIn](https://linkedin.com/in/reginaldojunior89)** or check out my **[Portfolio](https://reginalddev.github.io/HomePage/)**.
 
----
+### Technologies and Tools
 
-## 📊 Estatísticas do GitHub
+![Cypress](https://img.shields.io/badge/-Cypress-ffffff?style=for-the-badge&logo=cypress&logoColor=green)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![K6](https://img.shields.io/badge/k6-8648ec?style=for-the-badge&logo=k6&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-fb1a04?style=for-the-badge&logo=java&logoColor=blue)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Agile](https://img.shields.io/badge/Agile-Scrum_&_Kanban-blue?style=for-the-badge)
 
-Você pode acompanhar meu progresso por aqui:
 
-
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReginaldDev&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaldDev&layout=compact&langs_count=8&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Snake animation](https://github.com/ReginaldDev/ReginaldDev/blob/output/github-contribution-grid-snake.svg?palette=gruvbox-dark)
----
-
-
+</details>

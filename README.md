@@ -2,7 +2,7 @@
 <summary>🇬🇧 <strong>View in English</strong></summary>
 
 # Reginaldo Junior
-*Software Quality Assurance Analyst (QA) | Manual & Automated Testing | Cypress | [cite_start]Postman* [cite: 2]
+*Software Quality Assurance Analyst (QA) | Manual & Automated Testing | Cypress | Postman*
 
 ---
 
